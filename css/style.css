@@ -326,6 +326,9 @@ section {
 .parallax-item {
     margin-bottom: 70px;
 }
+.parallax-item img {
+    cursor: pointer;
+}
 .parallax-deck {
     padding: 100px 15px;
     z-index: 3;
