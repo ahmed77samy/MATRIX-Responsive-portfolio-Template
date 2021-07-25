@@ -19,9 +19,6 @@
               values: [ {
                   latLng: [ 40.7143528, -74.0059731 ],
                   data: "Our office  - New York City",
-                  options: {
-                      icon: "images/marker.png"
-                  }
               } ],
               options: {
                   draggable: false
